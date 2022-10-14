@@ -1,0 +1,11 @@
+.mainDiv{
+  margin: 10px
+}
+div{
+  margin-bottom: 5px;
+}
+
+.kentat{
+  display: inline-block;
+  width: 120px;
+}
